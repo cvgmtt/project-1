@@ -1,0 +1,9 @@
+-stack overflow
+-https://www.geeksforgeeks.org/python-denoising-of-colored-images-using-opencv/
+-Libro nel catalogo della biblioteca:
+Hands-On ML Projects with OpenCV : Master Computer Vision and Machine Learning Using OpenCV and Python
+Mugesh, S., author.
+2023
+
+tool
+https://github.com/alkasm/colorfilters/blob/master/
